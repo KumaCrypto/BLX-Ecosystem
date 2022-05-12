@@ -17,8 +17,8 @@ async function main() {
 
   await run(`verify:verify`, {
     address: BLXLocker.address,
-    contract: "contracts/BloxifyToken.sol:BloxifyToken",
-    constructorArguments: [token],
+    contract: "contracts/BLXLocker.sol:BLXLocker",
+    constructorArguments: [],
   });
 
   console.log(`
