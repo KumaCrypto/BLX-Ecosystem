@@ -3,7 +3,7 @@ pragma solidity ^0.8.11;
 
 import "@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/token/ERC20/utils/SafeERC20.sol";
-import "./IBloxifyToken.sol";
+import "./Interfaces/IBloxifyToken.sol";
 
 // Error list:
 //     ERROR #1 = The current pause state does not match the requested one;

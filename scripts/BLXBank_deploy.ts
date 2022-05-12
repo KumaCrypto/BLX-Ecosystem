@@ -11,7 +11,7 @@ async function main() {
 
   await run(`verify:verify`, {
     address: BLXBank.address,
-    contract: "contracts/BloxifyToken.sol:BloxifyToken",
+    contract: "contracts/BLXBank.sol:BLXBank",
     constructorArguments: [token],
   });
 
