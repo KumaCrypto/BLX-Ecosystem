@@ -1,3 +1,16 @@
+# Introductory task in bloxify.gg
+
+Thank you for the opportunity, the tasks were very interesting!
+I hope for further cooperation :)
+
+
+  Contracts        |        Technical specifications for each contract                           |
+-------------------|-----------------------------------------------------------------------------|
+  BLXBank          |   https://github.com/bloxifygg/solidity-exercise/blob/master/BLXBank.md     |                                            
+  BloxifyToken     |   https://github.com/bloxifygg/solidity-exercise/blob/master/BLXToken.m     |
+  BLXLocker        |   https://github.com/bloxifygg/solidity-exercise/blob/master/BLXLocker.md   |
+
+
 ### Deployed in rinkeby:
 
   Contracts        |                             Addresses                      |
@@ -6,7 +19,7 @@
   BloxifyToken     |        0x98aF19040b0B36Ef8d55E5c583A0627378803be9          |
   BLXLocker        |        0x668Fd9584430644F5e54bA74ac71e46b11bf8a55          |
 
-### All smart contracts are verified
+#### All smart contracts are verified
 
 #### Coverage:
 File               |  % Stmts | % Branch |  % Funcs |  % Lines |Uncovered Lines |
