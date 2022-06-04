@@ -5,18 +5,18 @@ This project is a set of three smart contracts.
 ### Objective: 
 
 #### BLXToken
-is a token contract that is used in the ecosystem.
+is a token contract that is used in the ecosystem. <br>
 See more details [HERE](./BLXToken.md)
 
 
 #### BLXBank
 is a contract in which users can create their own accounts, replenish balances, make transfers, the contract contains information about deposits and withdrawals of users.
-There is an owner who can pause or unpause.
+There is an owner who can pause or unpause. <br>
 Check the instructions [HERE](./BLXBank.md)
 
 
 #### BLXLocker
-is a UUPS Upgradeable contract, an improved model of BLXBank, with the ability to transfer tokens between users in the following ways: linear vesting, unlocking funds after the specified time and transfers.
+is a UUPS Upgradeable contract, an improved model of BLXBank, with the ability to transfer tokens between users in the following ways: linear vesting, unlocking funds after the specified time and transfers. <br>
 Check the instructions [HERE](./BLXLocker.md)
 
 #### All smart contracts are verified
