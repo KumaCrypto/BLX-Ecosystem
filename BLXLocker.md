@@ -5,7 +5,6 @@ Locked funds should be possible to unlock at a specific date or linearly over th
 Using UUPS
 
 ### User stories
-Please, read the following user stories to implement:
 1. As a user I want to create the lock from my bank account balance for the given address
    - I want to provide start time of the lock, end time of the lock, locked amount
 2. As a user I want to get all locks that were created for me
